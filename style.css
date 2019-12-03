@@ -1,0 +1,66 @@
+
+
+h1{
+    color: white;
+    width: 100%;
+    text-align: center;
+}
+h2{
+    color: white;
+    width: 100%;
+    text-align: center;
+}
+h3{
+    color:white;
+
+}
+.emoji{
+    margin:0 10px;
+}
+#emojii{
+    visibility: hidden;
+}
+#result_info{
+    visibility:hidden;
+}
+.user_rank{
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    flex-direction: row;
+
+}
+.celeb_pictures{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.cell{
+    margin:15px 15px;
+    padding: 10px;
+    background-color: coral;
+}
+.image_rows{
+    display: flex;
+    flex-direction: row;
+    justify-content:space-around;
+}
+#next{
+    float:right;
+    margin: 15px ;
+    width: 100px;
+    height: 40px;
+    cursor: pointer;
+
+}
+body{
+    background-image: url(light.jpg);
+    background-repeat: unset;
+    background-size: cover;
+
+}
+
+
+
+
